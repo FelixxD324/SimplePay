@@ -25,8 +25,9 @@ SimplePay verfolgt ein transparentes Geschäftsmodell, das für Nutzer keine Geb
 SimplePay verändert die Art und Weise, wie Menschen Zahlungen tätigen. Mit einer klaren Vision, innovativer Technologie und dem Engagement für Datenschutz und Nutzerfreundlichkeit bringt SimplePay eine neue Ära der Kartenzahlungen. Egal ob Händler, Verkäufer oder Käufer – SimplePay bietet eine Lösung, die die Zukunft des Bezahlens gestaltet.
 
 ## Download und Einrichten:
-Hier kannst du SimplePay downloaden: https://routinehub.co/shortcut/16350/
-Das einfache Video-Guide für jedermann: https://youtu.be/OgOYYa463qU
+- Hier kannst du SimplePay downloaden: https://routinehub.co/shortcut/16350/
+
+- Das einfache Video-Guide für jedermann: https://youtu.be/OgOYYa463qU
 
 Gehe in die Einstellungen des Kurzbefehls und gib deine Telefonnummer ein.
 Erstelle einen Kontakt mit dem Vornamen SimplePay
