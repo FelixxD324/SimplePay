@@ -42,4 +42,4 @@ SimplePay verändert die Art und Weise, wie Menschen Zahlungen tätigen. Mit ein
 2. QR-Code des Käufers scannen
 3. Geld von dem Kontakt SimplePay via GiroPay anfordern
 4. Warten bis der Käufer die Anforderung bestätigt
-5. Geld erhalten: https://youtu.be/KutFCM0XKVY
+5. Geld erhalten
