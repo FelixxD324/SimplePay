@@ -28,6 +28,3 @@ SimplePay verändert die Art und Weise, wie Menschen Zahlungen tätigen. Mit ein
 - Hier kannst du SimplePay downloaden: https://routinehub.co/shortcut/16350/
 
 - Das einfache Video-Guide für jedermann: https://youtu.be/OgOYYa463qU
-
-Gehe in die Einstellungen des Kurzbefehls und gib deine Telefonnummer ein.
-Erstelle einen Kontakt mit dem Vornamen SimplePay
