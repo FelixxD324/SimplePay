@@ -27,8 +27,6 @@ SimplePay verändert die Art und Weise, wie Menschen Zahlungen tätigen. Mit ein
 ## Download und Einrichten:
 - Hier kannst du SimplePay downloaden: https://routinehub.co/shortcut/16350/
 
-- Das einfache Video-Guide für jedermann: https://youtu.be/KutFCM0XKVY
-
 # Nutzung
 ## Käufer
 1. Bezahlen wählen
