@@ -1,4 +1,4 @@
-# SimplePay: Revolutionäre Bequemlichkeit und Anonymität in Kartenzahlungen
+# SimplePay: Zahlen mit QR-Code
 
 ## Problemstellung:
 In einer Welt, in der digitale Zahlungen immer präsenter werden, stoßen Händler und Verbraucher oft auf Schwierigkeiten im Umgang mit etablierten Zahlungsmethoden. Die Notwendigkeit, teure Kartenterminals anzuschaffen und komplexe Verträge abzuschließen, stellt eine Barriere für viele Kleinunternehmen dar. Zudem können Zahlungen über Plattformen wie GiroPay zu unnötigen Datenschutzproblemen führen, da persönliche Kontaktdaten preisgegeben werden müssen. Auch die Möglichkeit unbefugter Abbuchungen nach Kartenzahlungen sorgt für Unsicherheit.
