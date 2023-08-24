@@ -24,7 +24,7 @@ SimplePay verfolgt ein transparentes Geschäftsmodell, das für Nutzer keine Geb
 ## Fazit:
 SimplePay verändert die Art und Weise, wie Menschen Zahlungen tätigen. Mit einer klaren Vision, innovativer Technologie und dem Engagement für Datenschutz und Nutzerfreundlichkeit bringt SimplePay eine neue Ära der Kartenzahlungen. Egal ob Händler, Verkäufer oder Käufer – SimplePay bietet eine Lösung, die die Zukunft des Bezahlens gestaltet.
 
-## Download und Einrichten:
+## Download:
 - Hier kannst du SimplePay downloaden: https://routinehub.co/shortcut/16350/
 
 # Nutzung
@@ -37,7 +37,8 @@ SimplePay verändert die Art und Weise, wie Menschen Zahlungen tätigen. Mit ein
 
 ## Verkäufer
 1. Zahlung anfordern wählen
-2. QR-Code des Käufers scannen
-3. Geld von dem Kontakt SimplePay via GiroPay anfordern
-4. Warten bis der Käufer die Anforderung bestätigt
-5. Geld erhalten
+2. Evnt. Beleg erstellen
+3. QR-Code des Käufers scannen
+4. Geld von dem Kontakt SimplePay via GiroPay anfordern
+5. Warten bis der Käufer die Anforderung bestätigt
+6. Geld erhalten
